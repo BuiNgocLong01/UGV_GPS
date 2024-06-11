@@ -1,0 +1,1 @@
+pip install RPi.GPIO pyserial adafruit-circuitpython-bno055 filterpy pynmea2 numpy adafruit-circuitpython-busdevice
